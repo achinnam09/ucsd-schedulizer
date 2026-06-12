@@ -1,0 +1,14 @@
+# Example UCSD schedule for ucsd-schedulizer
+# Format:  CODE | Title | Days | Start | End | Location
+# Days: M Tu W Th F  e.g. MWF, TuTh, MW
+# Times: 11:00a, 2:15p, 9:30a
+
+# term-start: 2026-03-30
+# term-end:   2026-06-06
+
+# holiday: 2026-05-25
+
+DSC190   | Topics in Data Science - Tools of the Trade | MWF  | 11:00a | 11:50a | PODEM 1A18
+MATH171B | Intro Num Optimiz/Nonlinear                 | MWF  | 3:00p  | 3:50p  | CENTR 113
+SYN100   | Engaging/Changing Planet                    | MW   | 12:30p | 1:50p  | HSS 7077
+DSC152   | Applied Stat. Data Analysis                 | TuTh | 9:30a  | 10:50a | HSS 1330
